@@ -16,15 +16,22 @@ export const projects = [
     {
         id: 3,
         title: "Calorie Tracker",
-        description: "Modern chat application with OpenAI integration",
-        image: "https://images.unsplash.com/photo-1677442136019-21780ecad995",
-        link: "#"
+        description: "Esta herramienta permite a los usuarios agregar alimentos y ejercicios, registrando el número de calorías consumidas. Además, cuenta con funcionalidades para editar y eliminar entradas, ofreciendo una experiencia de usuario intuitiva y eficiente.",
+        image: "./ContadorCalorias.png",
+        link: "https://contadorcalorias2024.netlify.app/"
     },
     {
         id: 4,
-        title: "Mobile Weather App",
-        description: "React Native weather application with beautiful UI",
-        image: "https://images.unsplash.com/photo-1592210454359-9043f067919b",
-        link: "#"
+        title: "Fit Tracker",
+        description: "La siguiente app web (desarrollada para utilizarla en celular) sirve para planificar rutinas de gimnasio! Con ella se visualizan todos los días de la semana y, al seleccionar uno, agregar ejercicios con detalles como peso, repeticiones y series. ",
+        image: "./fittrack.png",
+        link: "https://fittrackere.netlify.app/"
+    },
+    {
+        id: 5,
+        title: "Totalimp",
+        description: "La siguiente app web (desarrollada para utilizarla en celular) sirve para planificar rutinas de gimnasio! Con ella se visualizan todos los días de la semana y, al seleccionar uno, agregar ejercicios con detalles como peso, repeticiones y series. ",
+        image: "./fittrack.png",
+        link: "https://fittrackere.netlify.app/"
     }
 ];  
