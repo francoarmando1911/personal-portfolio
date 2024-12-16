@@ -8,14 +8,14 @@ export const projects = [
     },
     {
         id: 2,
-        title: "Portfolio Analytics",
-        description: "Data visualization dashboard using D3.js and React",
-        image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
-        link: "#"
+        title: "Calculadora de consumos y propinas",
+        description: "Aplicación de gestión de gastos utilizando React y TypeScript, aplicando Tailwind CSS para el diseño. Implementacion un estado global con Context API y uso de custom hooks, como useBudget, para mejorar la eficiencia del manejo de datos.",
+        image: "./ConsumosPropinas.png",
+        link: "https://calculadoraconsumos.netlify.app/"
     },
     {
         id: 3,
-        title: "AI Chat Interface",
+        title: "Calorie Tracker",
         description: "Modern chat application with OpenAI integration",
         image: "https://images.unsplash.com/photo-1677442136019-21780ecad995",
         link: "#"
