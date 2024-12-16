@@ -24,10 +24,6 @@ export default function Header() {
         en la creación de soluciones innovadoras a través de la programación, especialmente en el ecosistema 
         Java. Cuento con experiencia en Programación Orientada a Objetos (POO) y en el desarrollo de aplicaciones 
         web usando Spring Boot, junto con herramientas como Maven y conceptos de HTTP-REST.
-
-        Actualmente, estoy ampliando mis habilidades y conocimientos al estudiar JavaScript, React y TypeScript, 
-        para abordar las demandas del desarrollo web moderno. Me defino como una persona comprometida, trabajadora 
-        y constante, con una motivación constante para aprender y contribuir significativamente a nuevos proyectos.
       </p>
     </header>
   );

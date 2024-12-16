@@ -1,6 +1,7 @@
 import Header from './components/Header';
 import GridComponent from './components/GridComponent';
 import './index.css';
+import FooterComponent from './components/FooterComponent';
 
 function App() {
   return (
@@ -9,11 +10,7 @@ function App() {
         <div className="max-w-7xl mx-auto">
           <Header />
           <GridComponent/>
-
-
-
-
-          
+          <FooterComponent/>
         </div> 
       </div>
     </>
