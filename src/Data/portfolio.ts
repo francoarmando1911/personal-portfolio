@@ -1,10 +1,10 @@
 export const projects = [
     {
         id: 1,
-        title: "E-Commerce Platform",
-        description: "A full-stack e-commerce solution with React and Node.js",
-        image: "https://images.unsplash.com/photo-1557821552-17105176677c",
-        link: "#"
+        title: "Gestor de Gastos",
+        description: "Aplicacion para gestionar gastos mensuales desarrollada con React, TypeScript y Tailwind",
+        image: "./GestorGastos.png",
+        link: "https://control-gestor-gastos.netlify.app/"
     },
     {
         id: 2,
