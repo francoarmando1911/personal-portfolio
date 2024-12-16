@@ -30,8 +30,8 @@ export const projects = [
     {
         id: 5,
         title: "Totalimp",
-        description: "La siguiente app web (desarrollada para utilizarla en celular) sirve para planificar rutinas de gimnasio! Con ella se visualizan todos los días de la semana y, al seleccionar uno, agregar ejercicios con detalles como peso, repeticiones y series. ",
-        image: "./fittrack.png",
-        link: "https://fittrackere.netlify.app/"
+        description: "La aplicación permite a los usuarios seleccionar los productos que desean comprar y agregarlos a un carrito de compras. En el carrito, se puede incrementar la cantidad de productos y calcular el total a pagar. Además, incluye un botón que, al hacer clic, redirige automáticamente al chat de WhatsApp, llevando consigo toda la información del carrito para que los clientes puedan realizar el pedido directamente a través de la plataforma. ",
+        image: "./totalimp.png",
+        link: "https://66f4a14b161dc40eeea5fa2b--totalimp.netlify.app/"
     }
 ];  
