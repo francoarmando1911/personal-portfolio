@@ -15,7 +15,7 @@ export default function Header() {
         <a href="https://www.linkedin.com/in/franco-armando/" className="text-gray-400 hover:text-white transition-colors">
           <FontAwesomeIcon icon={faLinkedin} size="2x" />
         </a>
-        <a href="#" className="text-gray-400 hover:text-white transition-colors">
+        <a href="mailto:francoarmando2002@gmail.com" className="text-gray-400 hover:text-white transition-colors">
           <FontAwesomeIcon icon={faEnvelope} size="2x" />
         </a>
       </div>
