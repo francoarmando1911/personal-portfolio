@@ -1,6 +1,13 @@
 export const projects = [
     {
         id: 1,
+        title: "Intra Software",
+        description: "Landing page para emprendimiento personal",
+        image: "./intra.png",
+        link: "https://intrasoftware.netlify.app/"
+    },
+    {
+        id: 6,
         title: "Gestor de Gastos",
         description: "Aplicacion para gestionar gastos mensuales desarrollada con React, TypeScript y Tailwind",
         image: "./GestorGastos.png",
