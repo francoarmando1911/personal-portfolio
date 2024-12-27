@@ -1,5 +1,12 @@
 export const projects = [
     {
+        id: 6,
+        title: "Tienda de productos de refrigeracion",
+        description: "E-commerce para empresa de refrigeracion de la ciudad, desarrollado con React, TypeScript y Tailwind",
+        image: "./refrigeracion.png",
+        link: "https://66f4a14b161dc40eeea5fa2b--totalimp.netlify.app/"
+    },
+    {
         id: 1,
         title: "Intra Software",
         description: "Landing page para emprendimiento personal",
