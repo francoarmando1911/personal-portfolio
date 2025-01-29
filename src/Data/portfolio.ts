@@ -1,10 +1,17 @@
 export const projects = [
     {
+        id: 7,
+        title: "Control de pacientes de veterinaria",
+        description: "aplicación web para gestionar pacientes y sus dueños en una veterinaria. La aplicación permite registrar, editar y eliminar registros de manera eficiente, asignando a cada paciente un ID único para mantener la organización y el control de la información.",
+        image: "./veterinaria.png",
+        link: "https://controlpacientesveterinaria.netlify.app/"
+    },
+    {
         id: 6,
         title: "Tienda de productos de refrigeracion",
         description: "E-commerce para empresa de refrigeracion de la ciudad, desarrollado con React, TypeScript y Tailwind",
-        image: "./refrigeracion.png",
-        link: "https://refrifran.netlify.app/"
+        image: "./refrigeracion2.png",
+        link: "https://cecchinirefrigeracion.netlify.app/"
     },
     {
         id: 1,
