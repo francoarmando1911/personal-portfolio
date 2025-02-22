@@ -20,10 +20,10 @@ export default function Header() {
         </a>
       </div>
       <p className="text-xl text-gray-300 max-w-2xl mx-auto leading-relaxed">
-        Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN FRCU, con un interés sólido 
-        en la creación de soluciones innovadoras a través de la programación, especialmente en el ecosistema 
-        Java. Cuento con experiencia en Programación Orientada a Objetos (POO) y en el desarrollo de aplicaciones 
-        web usando Spring Boot, junto con herramientas como Maven y conceptos de HTTP-REST.
+        Soy estudiante de la Tecnicatura Universitaria en Programación en UTN FRCU, con un interés sólido en la creación de soluciones 
+        innovadoras a través de la programación, especialmente en el ecosistema Java con mas de 2 años de experiencia en dicha tecnología.
+        Actualmente, estoy ampliando mis habilidades en tecnologías modernas como JavaScript, React, TypeScript, TailwindCSS y Next Js para 
+        abordar los desafíos del desarrollo web actual.
       </p>
     </header>
   );
